@@ -173,6 +173,4 @@ elif page == "About the Team":
     - **Samridh Singh** - Industrial Internet of Things Engineer in Training🧠
     Our team believes in creating accessible, cost-effective tools for modern agriculture using AI and machine learning.
     """)
-
-    # Team illustration placeholder (replace with actual images)
     st.image("Designer.png", width=400, caption="Our Team", use_column_width=True)
